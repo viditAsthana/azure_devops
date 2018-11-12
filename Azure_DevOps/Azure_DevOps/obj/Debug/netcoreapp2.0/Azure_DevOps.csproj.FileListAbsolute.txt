@@ -1,0 +1,11 @@
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\bin\Debug\netcoreapp2.0\Azure_DevOps.deps.json
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\bin\Debug\netcoreapp2.0\Azure_DevOps.runtimeconfig.json
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\bin\Debug\netcoreapp2.0\Azure_DevOps.runtimeconfig.dev.json
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\bin\Debug\netcoreapp2.0\Azure_DevOps.dll
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\bin\Debug\netcoreapp2.0\Azure_DevOps.pdb
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\obj\Debug\netcoreapp2.0\Azure_DevOps.csprojResolveAssemblyReference.cache
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\obj\Debug\netcoreapp2.0\Azure_DevOps.csproj.CoreCompileInputs.cache
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\obj\Debug\netcoreapp2.0\Azure_DevOps.AssemblyInfoInputs.cache
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\obj\Debug\netcoreapp2.0\Azure_DevOps.AssemblyInfo.cs
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\obj\Debug\netcoreapp2.0\Azure_DevOps.dll
+F:\projects\github\project1\Azure_DevOps\Azure_DevOps\obj\Debug\netcoreapp2.0\Azure_DevOps.pdb
